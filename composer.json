@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+	  "UmpRzr\\": "classes/",
+	  "UmpRzr\\Admin\\": "classes/admin/"
+	}
+  },
+  "config": {
+    "autoloader-suffix": "UmpRzr"
+  }
+}

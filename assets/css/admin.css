@@ -1,0 +1,10 @@
+.iump-payment-box.ump_rzr-active{
+    background-color: #1c3869;
+}
+.iump-ump_rzr-box .icon-ump-razorpay:before {
+    content: "\e811" !important;
+    font-size:70px !important;
+    display: table-cell !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+}
